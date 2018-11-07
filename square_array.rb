@@ -4,4 +4,4 @@ def square_array(array)
   arr
 end
 
-# |i| arr << i ** 2
+
